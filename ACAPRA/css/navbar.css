@@ -1,0 +1,86 @@
+element-styles {
+    display: inline-block;
+    width: 1880px;
+ }
+ 
+ .header-nav-container {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-width: 1880px;
+    padding-right: 276px;
+    background: #1e293b;
+    border-radius: 20px 20px 0px 0px;
+ }
+ 
+ .header-nav-container1 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    min-width: 1052px;
+    height: 97px;
+ }
+ 
+ .sidebar-container {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 9.69%;
+ }
+ 
+ .vertical-centered-box {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    width: 87px;
+    padding-right: 3px;
+    padding-left: 4px;
+    background: url("blob:https://app.kombai.com/76483c63-56d6-42db-842c-f23223942962")
+    50% / cover no-repeat;
+ }
+ 
+ .circular-image-display-style {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    max-width: initial;
+    height: 80px;
+    border: none;
+    border-radius: 50%;
+    object-fit: cover;
+ }
+ 
+ .navbar-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    gap: 61px;
+    align-items: center;
+    justify-content: flex-end;
+    width: 90.31%;
+    height: 97px;
+ }
+ 
+ .primary-heading {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: 600 28px Roboto, sans-serif;
+    color: white;
+ }
+ 
+ .blue-header-text-style {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: 600 28px Roboto, sans-serif;
+    color: #38bdf8;
+ }
+ 
+ 
